@@ -1,5 +1,5 @@
 lance docker container
-docker>compose-docker up -d
+>docker>compose-docker up -d
 
 init topics data
 >./init.sh
